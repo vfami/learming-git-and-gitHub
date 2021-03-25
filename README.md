@@ -1,3 +1,3 @@
-# learming-git-and-gi
+# Learming Git and GitHub
 
 This repo was used to learn git from Amigoscode
